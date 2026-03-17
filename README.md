@@ -11,7 +11,7 @@ This repository presents applied spatial analysis using GIS to identify patterns
 ## 📊 Average Nearest Neighbor
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="average nearest neighbor summary.png" width="850">
 </p>
 
 
@@ -23,7 +23,7 @@ The extremely low z-score confirms a statistically significant clustered pattern
 ## 🦠 John Snow Cholera Map
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="John Snow's 1854 map of London cholera outbreaks (deaths are indicated as dots, water pumps as crosses). Gilbert Publishing reproduced..png" width="850">
 </p>
 
 
@@ -34,7 +34,7 @@ A foundational example of spatial analysis, demonstrating how disease outbreaks 
 ## 📏 Proximity Analysis
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="showing locations that represent the location of site, airport, and the interstate exit ramp to get an estimate of the distance using proximity analysis.png" width="850">
 </p>
 
 
@@ -45,7 +45,7 @@ Used to measure distances between features such as highways and airports to supp
 ## 🔺 Thiessen Polygon
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="Showing the john snow map pumps and death..jpg" width="850">
 </p>
 
 
@@ -56,7 +56,7 @@ Defines zones of influence around points, showing which areas are closest to eac
 ## 📊 Mean Center
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="showing the mean center for Speckled wood butterflies.jpg" width="850">
 </p>
 
 
@@ -67,7 +67,7 @@ Represents the average geographic location of features, showing spatial shifts o
 ## 📐 Standard Distance
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="Showing the standard distance for Speckled wood butterflies.jpg" width="850">
 </p>
 
 
@@ -78,7 +78,7 @@ Measures dispersion of features around the mean center, indicating spread of dis
 ## 🔥 Kernel Density
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="A map displaying South Yorkshire burglary kernel density analysis.jpg" width="850">
 </p>
 
 
@@ -89,7 +89,7 @@ Identifies hotspots of activity, highlighting areas with high burglary concentra
 ## 🧮 Thiessen Density
 
 <p align="center">
-<img src="map of sheffield showing middle super output areas.png" width="850">
+<img src="Showing the sum of deaths Area of the Thiessen polygon..jpg" width="850">
 </p>
 
 
