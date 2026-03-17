@@ -10,7 +10,10 @@ This repository presents applied spatial analysis using GIS to identify patterns
 
 ## 📊 Average Nearest Neighbor
 
-![Nearest Neighbor](maps/nearest_neighbor.png)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 This analysis evaluates whether spatial patterns are clustered, random, or dispersed.
 The extremely low z-score confirms a statistically significant clustered pattern.
@@ -19,7 +22,10 @@ The extremely low z-score confirms a statistically significant clustered pattern
 
 ## 🦠 John Snow Cholera Map
 
-![John Snow](maps/john_snow_map.png)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 A foundational example of spatial analysis, demonstrating how disease outbreaks can be traced through geographic patterns.
 
@@ -27,7 +33,10 @@ A foundational example of spatial analysis, demonstrating how disease outbreaks 
 
 ## 📏 Proximity Analysis
 
-![Proximity](maps/proximity_analysis.png)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 Used to measure distances between features such as highways and airports to support location-based decision-making.
 
@@ -35,7 +44,10 @@ Used to measure distances between features such as highways and airports to supp
 
 ## 🔺 Thiessen Polygon
 
-![Thiessen](maps/thiessen_polygon.jpg)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 Defines zones of influence around points, showing which areas are closest to each water pump.
 
@@ -43,7 +55,10 @@ Defines zones of influence around points, showing which areas are closest to eac
 
 ## 📊 Mean Center
 
-![Mean Center](maps/mean_center.jpg)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 Represents the average geographic location of features, showing spatial shifts over time.
 
@@ -51,7 +66,10 @@ Represents the average geographic location of features, showing spatial shifts o
 
 ## 📐 Standard Distance
 
-![Standard Distance](maps/standard_distance.jpg)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 Measures dispersion of features around the mean center, indicating spread of distribution.
 
@@ -59,7 +77,10 @@ Measures dispersion of features around the mean center, indicating spread of dis
 
 ## 🔥 Kernel Density
 
-![Kernel Density](maps/kernel_density.jpg)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 Identifies hotspots of activity, highlighting areas with high burglary concentration.
 
@@ -67,7 +88,10 @@ Identifies hotspots of activity, highlighting areas with high burglary concentra
 
 ## 🧮 Thiessen Density
 
-![Thiessen Density](maps/thiessen_density.jpg)
+<p align="center">
+<img src="map of sheffield showing middle super output areas.png" width="850">
+</p>
+
 
 Shows the intensity of deaths per polygon area, reinforcing spatial clustering patterns.
 
